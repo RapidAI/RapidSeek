@@ -11,7 +11,9 @@ An Economical Large Language Model Inference Cluster System for DeepSeek MOE Mod
 
 ## Models supported
 [x] DeepseekMOE 
+
 [] DeepSeekV3
+
 [] DeepSeekR1
 
 ### Recommended hardware
