@@ -17,3 +17,9 @@ An Economical Large Language Model Inference Cluster System for DeepSeek MOE Mod
 * DeepSeekR1
 
 ### Recommended hardware
+
+
+### Special thanks to 
+
+- llamafile https://github.com/Mozilla-Ocho/llamafile
+- Marlin  https://github.com/IST-DASLab/marlin
