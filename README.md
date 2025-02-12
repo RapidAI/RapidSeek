@@ -10,10 +10,10 @@ An Economical Large Language Model Inference Cluster System for DeepSeek MOE Mod
 - supporting 20 tokens per second per user.
 
 ## Models supported
-[x] DeepseekMOE 
+[x] DeepSeek-V2-Lite 
 
-[] DeepSeekV3
+* DeepSeekV3
 
-[] DeepSeekR1
+* DeepSeekR1
 
 ### Recommended hardware
