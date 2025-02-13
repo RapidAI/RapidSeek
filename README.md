@@ -16,6 +16,11 @@ An Economical Large Language Model Inference Cluster System for DeepSeek MOE Mod
 
 * DeepSeekR1
 
+### Supported  GPUs
+- Nvidia
+- AMD
+- Intel Arc
+  
 ### Recommended hardware
 
 
