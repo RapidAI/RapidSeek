@@ -6,7 +6,7 @@ An Economical Large Language Model Inference Cluster System for DeepSeek MOE Mod
 
 - C++ and Python-based 
 - efficient kernels in C++ 
-- for multiple machine clusters with a cost below 1,500 dollars per machine
+- for multiple machine clusters with a cost below 1,5000 dollars per machine
 - supporting 20 tokens per second per user.
 
 ## Models supported
